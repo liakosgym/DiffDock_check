@@ -241,4 +241,4 @@ Components of the code of the [spyrmsd](spyrmsd) package by Rocco Meli (also MIT
 We sincerely thank:
 * Jacob Silterra for his help with the publishing and deployment of the code.
 * Arthur Deng, Nicholas Polizzi and Ben Fry for their critical contributions to part of the code in this repository. 
-* Wei Lu and Rachel Wu for pointing out some issues with the code.
+* Wei Lu and Rachel Wu for pointing out some issues with the code .
